@@ -1,0 +1,4 @@
+kfp==1.8.19
+tqdm==4.65.0
+matplotlib==3.7.1
+minio<7.0.0
